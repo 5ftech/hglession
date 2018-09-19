@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "homepage": "https://github.com/5ftech/hglession",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
